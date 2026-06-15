@@ -61,7 +61,7 @@ The CMS Provider Data Catalog API does not guarantee permissive CORS headers for
 
 ---
 
-## CMS Datasets Used
+## CMS API Endpoints
 
 | Dataset | ID | Used for |
 |---|---|---|
