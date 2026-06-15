@@ -32,9 +32,6 @@ export default function ReportPreview({ ccn, apiData, manualInputs }) {
         <div className="flex items-center justify-center gap-3 mb-1">
           <InfiniteLogoSVG />
         </div>
-        <p className="text-xs text-slate-400 mt-1 tracking-widest uppercase">
-          Managed by MEDELITE
-        </p>
       </div>
 
       <div className="bg-slate-50 border-b border-slate-200 text-center py-3 px-4">
