@@ -1,10 +1,5 @@
 {
-  "functions": {
-    "api/facility.js": {
-      "runtime": "nodejs20.x"
-    }
-  },
   "rewrites": [
-    { "source": "/api/(.*)", "destination": "/api/$1" }
+    { "source": "/((?!api/).*)", "destination": "/index.html" }
   ]
 }

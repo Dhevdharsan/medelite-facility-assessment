@@ -2,6 +2,9 @@
   "name": "medelite-facility-assessment",
   "version": "1.0.0",
   "type": "module",
+  "engines": {
+    "node": "20.x"
+  },
   "scripts": {
     "dev:api": "node dev-api.js",
     "dev": "vite",
