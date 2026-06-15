@@ -1,8 +1,20 @@
 # Medelite Facility Assessment Snapshot Generator
 
-**Live Demo:** (https://medelite-facility-assessment-two.vercel.app/)
+**Live Demo:** https://medelite-facility-assessment-two.vercel.app/
 
 > Enter any CMS Certification Number → pulls live facility data → fill operational fields → download a branded, print-ready PDF with a clickable Medicare Care Compare link.
+
+---
+
+## Screenshots
+
+**Landing page — enter any CCN to pull live CMS data**
+![Hero](docs/screenshot-hero.png)
+
+**Report preview + operational fields — then export to PDF or Word**
+![Report Preview](docs/screenshot-report.png)
+
+**[Sample PDF output](docs/sample-report.pdf)** — single-page vector PDF with clickable Medicare Care Compare link
 
 ---
 
